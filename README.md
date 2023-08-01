@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Shivanand Vishwakarma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Shivanand Vishwakarma (Shiva)</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <h3 align="center">I am Passionate about Web Development and also participate in many events which helps me to pursue knowledge about it. Proficient in JavaScript and currently learning SFCC technologies and coding fundamentals which will help me understand and overcome the problems. Excellent ability to perform well in a team. Passionate about coding and enjoy learning new technologies.</h3><br>
 
